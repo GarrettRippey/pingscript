@@ -16,9 +16,9 @@ goto ip
 set ip = %ip%
 pause
 
-:script
+
 @echo are you sure?
 pause
-:attack
+:script
 ping %ip%
 goto script

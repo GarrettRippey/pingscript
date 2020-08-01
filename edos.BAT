@@ -1,4 +1,5 @@
 @echo off
+color 0a
 goto Boot
 
 :Boot
